@@ -1,52 +1,52 @@
 Items: {
 	TorsoCoca: {
-		Tooltip: Sientete como Cocacola Man :B
-		DisplayName: Camisa de Cocacola Man
-	}
+		Tooltip: Feel like Cocacola Man :B
+		DisplayName: Cocacola Man Shirt
+	},
 
 	TorsoCocaAlt: {
-		Tooltip: Sientete como Cocacola Man :B
-		DisplayName: Camisa de Cocacola Man
-	}
+		Tooltip: Feel like Cocacola Man :B
+		DisplayName: Cocacola Man Shirt
+	},
 
 	PiernaCoca: {
-		Tooltip: Sientete como Cocacola Man :B
-		DisplayName: Pantalones de Cocacola Man
-	}
+		Tooltip: Feel like Cocacola Man :B
+		DisplayName: Cocacola Man Pants
+	},
 
 	CocaColaZero: {
-		Tooltip: ¡Sientes una gran cantidad de edulcorante y cafeina en tu interior!
+		Tooltip: You feel a huge amount of sweetener and caffeine inside you!
 		DisplayName: Coca-Cola Zero
-	}
+	},
 
 	CocaCola: {
-		Tooltip: ¡Sientes una gran azúcar y cafeina en tu interior!
+		Tooltip: You feel a great amount of sugar and caffeine inside you!
 		DisplayName: Coca-Cola
-	}
+	},
 
 	CabezaCoca: {
-		Tooltip: Sientete como Cocacola Man :B
-		DisplayName: Mascara de Cocacola Man
-	}
+		Tooltip: Feel like Cocacola Man :B
+		DisplayName: Cocacola Man Mask
+	},
 
 	CabezaCocaAlt: {
-		Tooltip: Sientete como Cocacola Man :B
-		DisplayName: Mascara de Cocacol Mman
+		Tooltip: Feel like Cocacola Man :B
+		DisplayName: Cocacola Mman Mask
 	}
-}
+},
 
 NPCs: {
 	Cocacolaman_NPC: {
 		TownNPCMood: {
-			Princess_LovesNPC: Me gusta {NPCName}.
-			LikeNPC_Princess: Me gusta {NPCName}.
-			HateCrowded: Detesto tener poco espacio.
-			DislikeCrowded: No me gusta tener tan poco espacio.
-			LoveSpace: Me encanta tener tanto espacio.
-			FarFromHome: Estoy demasiado lejos de casa.
-			NoHome: Detesto no tener un hogar.
-			Content: Estoy feliz.
-		}
+			Princess_LovesNPC: I like {NPCName}.
+			LikeNPC_Princess: I like {NPCName}.
+			HateCrowded: I hate having little space.
+			DislikeCrowded: I don't like being so cramped.
+			LoveSpace: I love having so much space.
+			FarFromHome: I'm too far from home.
+			NoHome: I hate not having a home.
+			Content: I'm happy.
+		},
 
 		DisplayName: Cocacola Man
 	}
