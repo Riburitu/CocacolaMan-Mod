@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Cocacola</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>netcoreapp8.0</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="tModLoader" />
+    <Reference Include="MonoMod.RuntimeDetour" />
+    <Reference Include="MonoMod.Utils" />
+    <Reference Include="Mono.Cecil" />
+    <Reference Include="FNA" />
+    <Reference Include="TerrariaHooks" />
+    <Reference Include="ReLogic" />
+    <Reference Include="log4net" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+displayName = CocacolaMan
+author = Riburitu
+version = 1.01
+side = Both
+modReferences =

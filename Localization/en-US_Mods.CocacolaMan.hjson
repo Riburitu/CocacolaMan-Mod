@@ -1,0 +1,53 @@
+Items: {
+	TorsoCoca: {
+		Tooltip: Sientete como Cocacola Man :B
+		DisplayName: Camisa de Cocacola Man
+	}
+
+	TorsoCocaAlt: {
+		Tooltip: Sientete como Cocacola Man :B
+		DisplayName: Camisa de Cocacola Man
+	}
+
+	PiernaCoca: {
+		Tooltip: Sientete como Cocacola Man :B
+		DisplayName: Pantalones de Cocacola Man
+	}
+
+	CocaColaZero: {
+		Tooltip: ¡Sientes una gran cantidad de edulcorante y cafeina en tu interior!
+		DisplayName: Coca-Cola Zero
+	}
+
+	CocaCola: {
+		Tooltip: ¡Sientes una gran azúcar y cafeina en tu interior!
+		DisplayName: Coca-Cola
+	}
+
+	CabezaCoca: {
+		Tooltip: Sientete como Cocacola Man :B
+		DisplayName: Mascara de Cocacola Man
+	}
+
+	CabezaCocaAlt: {
+		Tooltip: Sientete como Cocacola Man :B
+		DisplayName: Mascara de Cocacol Mman
+	}
+}
+
+NPCs: {
+	Cocacolaman_NPC: {
+		TownNPCMood: {
+			Princess_LovesNPC: Me gusta {NPCName}.
+			LikeNPC_Princess: Me gusta {NPCName}.
+			HateCrowded: Detesto tener poco espacio.
+			DislikeCrowded: No me gusta tener tan poco espacio.
+			LoveSpace: Me encanta tener tanto espacio.
+			FarFromHome: Estoy demasiado lejos de casa.
+			NoHome: Detesto no tener un hogar.
+			Content: Estoy feliz.
+		}
+
+		DisplayName: Cocacola Man
+	}
+}
