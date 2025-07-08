@@ -1,2 +1,3 @@
 # CocacolaMan-Mod
-Un mod de Terraria el cual crea un NPC que es Cocacola Man con varios items y vanidad.
+
+Un mod de Terraria que hay un NPC de Cocaman y hay items nuevos como también un traje del NPC.
